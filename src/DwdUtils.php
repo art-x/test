@@ -1,6 +1,6 @@
 <?php
 
-namespace Test;
+namespace test;
 
 class DwdUtils
 {
